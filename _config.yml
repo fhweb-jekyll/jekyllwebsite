@@ -1,8 +1,8 @@
 # Your Name or Company
-title: Uni Kravitz
+title: Francesca Hart
 
 # Description of your website. This is used for social sharing.
-description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
+description:  The beautiful website of artist and home steader, Francesca Hart.
 
 # A brief blurb about yourself
 content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
@@ -10,20 +10,20 @@ content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis cons
 # Add your social links
 social:
   - platform: github
-    url: https://github.com/brianmaierjr
+    url: https://github.com/blah
   - platform: facebook
-    url: https://facebook.com/brianmaierjr
+    url: https://facebook.com/blah
   - platform: twitter
-    url: https://twitter.com/brianmaierjr
+    url: https://twitter.com/blah
   - platform: linkedin
-    url: brianmaierjr
+    url: blah
 
 # General settings
-# url: http://brianmaierjr.github.com/uni
-# baseurl: "/uni" 
+# url: http://francescahart.com
+# baseurl: "" 
 markdown: kramdown
 sharing_image: share.jpg
-google_analytics: "UA-58263416-1" # google analytics tracking
+google_analytics: "UA-" # google analytics tracking
 
 #### LAYOUT OPTIONS #####
 
