@@ -5,7 +5,7 @@ title: Francesca Hart
 description:  The beautiful website of artist and home maker, Francesca Hart.
 
 # A brief blurb about yourself
-content: The beautiful website of artist and home maker, Francesca Hart.
+content: The personal website of artist and home maker, Francesca Hart.
 
 # Half layout options
 half_side: left
@@ -13,14 +13,10 @@ half_image: woman-half.jpg
 
 # Add your social links
 social:
-  - platform: github
-    url: https://github.com/BLAH
-  - platform: facebook
-    url: https://facebook.com/BLAH
-  - platform: twitter
-    url: https://twitter.com/BLAH
-  - platform: linkedin
-    url: BLAH
+  - platform: Instagram
+    url: https://www.instagram.com/chescahart/
+  - platform: LinkedIn
+    url: https://linkedin.com/in/francescaanton
 
 # General settings
 url: https://francescahart.com/
